@@ -13,7 +13,7 @@ from fastapi.middleware.cors import CORSMiddleware
 ALLOWED_ORIGIN = "https://dash-2cjz36.example.com"
 
 # Replace with your exact logged-in email address.
-EMAIL = "YOUR_LOGGED_IN_EMAIL@example.com"
+EMAIL = "23f2005531@ds.study.iitm.ac.in"
 
 api = FastAPI(title="Statistics API")
 
