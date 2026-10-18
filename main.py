@@ -10,7 +10,7 @@ from fastapi.middleware.cors import CORSMiddleware
 # Configuration
 # --------------------------------------------------
 
-ALLOWED_ORIGIN = "https://dash-2cjzj36.example.com"
+ALLOWED_ORIGIN = "https://dash-2cjz36.example.com"
 
 # Replace with your exact logged-in email address.
 EMAIL = "YOUR_LOGGED_IN_EMAIL@example.com"
